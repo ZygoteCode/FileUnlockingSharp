@@ -1,0 +1,10 @@
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\bin\Release\FileUnlockTest.exe.config
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\bin\Release\FileUnlockTest.exe
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\bin\Release\FileUnlockTest.pdb
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\bin\Release\FileUnlockingSharp.dll
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\bin\Release\FileUnlockingSharp.pdb
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\obj\Release\FileUnlockTest.csproj.AssemblyReference.cache
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\obj\Release\FileUnlockTest.csproj.CoreCompileInputs.cache
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\obj\Release\FileUnlo.3A3DA473.Up2Date
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\obj\Release\FileUnlockTest.exe
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockTest\obj\Release\FileUnlockTest.pdb

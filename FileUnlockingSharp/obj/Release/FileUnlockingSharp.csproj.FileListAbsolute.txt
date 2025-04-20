@@ -1,0 +1,6 @@
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockingSharp\bin\Release\FileUnlockingSharp.dll
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockingSharp\bin\Release\FileUnlockingSharp.pdb
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockingSharp\obj\Release\FileUnlockingSharp.csproj.AssemblyReference.cache
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockingSharp\obj\Release\FileUnlockingSharp.csproj.CoreCompileInputs.cache
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockingSharp\obj\Release\FileUnlockingSharp.dll
+C:\Users\bolog\Desktop\FileUnlockingSharp\FileUnlockingSharp\obj\Release\FileUnlockingSharp.pdb
